@@ -1,4 +1,5 @@
-![BannerSinLetrasOriginal](https://user-images.githubusercontent.com/67019763/132403739-87a43456-c93c-4a2d-b1f5-baa063ab3e2b.png)
+![BannerLetrasOriginal](https://user-images.githubusercontent.com/67019763/132403898-4427d63c-973b-4071-93d8-80010fa9fb17.png)
+
 
 
 <!---
