@@ -1,4 +1,6 @@
-![BannerLetrasOriginal](https://user-images.githubusercontent.com/67019763/132403898-4427d63c-973b-4071-93d8-80010fa9fb17.png)
+![LinkedinSizeLetras](https://user-images.githubusercontent.com/67019763/132405660-a2113910-3ccf-4ce3-bb79-b4a311dbbe12.png)
+
+
 
 
 
